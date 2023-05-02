@@ -1,0 +1,44 @@
+{
+  "invoice": {
+    "issue-date": "13/10/2020",
+    "customer": {
+      "name": "ANDRADE RODRIGUEZ MANUEL ALEJANDRO",
+      "email": "cgallegoaecu@gmail.com"
+    },
+    "items": [
+      {
+        "price": 10000.00,
+        "quantity": 1.00,
+        "sku": "SUPER-1",
+        "taxes": [
+          {
+            "category": "iva",
+            "rate": 5
+          }
+        ]
+      },
+      {
+        "price": 20000.00,
+        "quantity": 1.00,
+        "sku": "SUPER-2",
+        "taxes": [
+          {
+            "category": "iva",
+            "rate": 19
+          }
+        ]
+      },
+      {
+        "price": 30000.00,
+        "quantity": 1.00,
+        "sku": "SUPER-3",
+        "taxes": [
+          {
+            "category": "iva",
+            "rate": 19
+          }
+        ]
+      }
+    ]
+  }
+}
