@@ -1,5 +1,7 @@
 # How to check
 
+For this challenge I create a project on IntelliJ to can execute and validate each problem
+
 ## Problems
 
 ### Problem 1 Thread-last Operator ->>
